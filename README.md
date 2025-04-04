@@ -9,7 +9,7 @@
                  
 
   Somos integrantes do curso de Engenharia Elétrica, empenhados com a pesquisa, inovação tecnológica: sustentável e eficiente. 
-    A EVE se compromete.
+   **A EVE se compromete**.
 #
 #
 # ∃V∈
