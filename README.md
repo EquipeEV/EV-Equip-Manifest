@@ -33,7 +33,6 @@
 
 # Projeto Mecânico
 
-https://github.com/user-attachments/assets/ad05f2a9-afd0-4383-9a17-37830fff34b9
 
 https://github.com/user-attachments/assets/cf6f5cc0-9241-4fab-a9f7-1126b8aa4737
 
