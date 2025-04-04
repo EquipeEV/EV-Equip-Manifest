@@ -28,3 +28,5 @@
 # Front Layer
 #![image](https://github.com/user-attachments/assets/14472d1a-d16f-4813-b3a5-60358b580400)
 
+# Schematics
+[Schematics.pdf](https://github.com/user-attachments/files/19603987/Schematics.pdf)
