@@ -13,3 +13,4 @@
 #   A EVE se compromete a criar a plataforma de controle de máquinas elétricas.
 
 #      ∃V∈
+![Board Schematics (1)](https://github.com/user-attachments/assets/dd474ebd-bbbc-4bab-baa7-e1165861f318)
