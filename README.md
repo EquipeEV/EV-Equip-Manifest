@@ -8,9 +8,9 @@
                  
 
 #    Somos integrantes do curso de Engenharia Elétrica,
-#   empenhados com a pesquisa, inovação tecnológica: sustentável e eficiente. 
+   empenhados com a pesquisa, inovação tecnológica: sustentável e eficiente. 
     
-#   A EVE se compromete a criar a plataforma de controle de máquinas elétricas.
+   A EVE se compromete a criar a plataforma de controle de máquinas elétricas.
 
 #      ∃V∈
 #
@@ -22,9 +22,9 @@
 #
 #
 #Bottom Layer 
-![image](https://github.com/user-attachments/assets/6e19b31a-0cf2-4a25-b3ca-16a4b402e40a)
+#![image](https://github.com/user-attachments/assets/6e19b31a-0cf2-4a25-b3ca-16a4b402e40a)
 #
 #
 #Front Layer
-![image](https://github.com/user-attachments/assets/14472d1a-d16f-4813-b3a5-60358b580400)
+#![image](https://github.com/user-attachments/assets/14472d1a-d16f-4813-b3a5-60358b580400)
 
