@@ -12,4 +12,4 @@
     
 #   A EVE se compromete a criar a plataforma de controle de máquinas elétricas .
 
-#      ∃V∈.
+#      ∃V∈
