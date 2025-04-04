@@ -1,6 +1,5 @@
 # EV-Equip-Manifest
-
-# Um elo direto com  **veículos elétricos** e a cidade de **Cachoeira do Sul**.
+ Um elo direto com  **veículos elétricos** e a cidade de **Cachoeira do Sul**.
 
 
                
