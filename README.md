@@ -2,7 +2,7 @@
 
 # Um elo direto com  **veículos elétricos** e a cidade de **Cachoeira do Sul**.
 
-              **EVECS**  
+              EVECS 
 #       *Electric Vehicle Equip Cachoeira do Sul*  
 
                  
