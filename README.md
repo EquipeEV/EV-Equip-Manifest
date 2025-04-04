@@ -5,11 +5,11 @@
 
                
 #       *Electric Vehicle Equip Cachoeira do Sul*
-        evecs
+  evecs
 
                  
 
-    Somos integrantes do curso de Engenharia Elétrica, empenhados com a pesquisa, inovação tecnológica: sustentável e eficiente. 
+  Somos integrantes do curso de Engenharia Elétrica, empenhados com a pesquisa, inovação tecnológica: sustentável e eficiente. 
     A EVE se compromete a criar a plataforma de controle de máquinas elétricas.
 #
 #      ∃V∈
