@@ -1,4 +1,12 @@
+# 🏎️ Equipe EV — Hardware & Firmware Hub
 
+Este repositório concentra todo o ecossistema de hardware e sistemas embarcados desenvolvidos pela **Equipe EV**. Aqui nós projetamos e codificamos o cérebro e o coração do nosso veículo elétrico de competição.
+
+### 🔌 Áreas de Desenvolvimento
+*   **Sistemas de Potência:** Inversores e conversores.
+*   **Controle e Firmware:** Código embarcado para microcontroladores.
+*   **Aquisição de Dados:** Telemetria, instrumentação de sensores e utilidades.
+*   
 ![Board Schematics (1)](https://github.com/user-attachments/assets/dd474ebd-bbbc-4bab-baa7-e1165861f318)
 #
 #
