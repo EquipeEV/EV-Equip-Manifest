@@ -1,18 +1,3 @@
-# EV-Equip-Manifest
- Um elo direto com  **veículos elétricos** e a cidade de **Cachoeira do Sul**.
-
-
-               
-#       *Electric Vehicle Equip Cachoeira do Sul*
-  **evecs**
-
-                 
-
-  Somos integrantes do curso de Engenharia Elétrica, empenhados com a pesquisa, inovação tecnológica: sustentável e eficiente. 
-   **A EVE se compromete**.
-#
-#
-# ∃V∈
 
 ![Board Schematics (1)](https://github.com/user-attachments/assets/dd474ebd-bbbc-4bab-baa7-e1165861f318)
 #
